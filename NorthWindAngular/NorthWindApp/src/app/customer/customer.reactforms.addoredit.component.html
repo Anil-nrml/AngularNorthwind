@@ -1,0 +1,149 @@
+<div class="modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title">Add or Edid Customer</h5>
+            <button type="button" class="btn btn-default close" (click)="OnClose()" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <div class='modal-body'>
+            <div class='card col-12'>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Company Name :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="CompanyName" class="form-control" value=""
+                                
+                                [formControl]="CompanyName"/>
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Contact Name :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="ContactName" class="form-control" value=""
+                                required="required" pattern="" title="" placeholder="Enter Contact Name"
+                                [formControl]="ContactName" />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Contact Title :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="ContactTitle" class="form-control" value=""
+                                required="required" pattern="" title="" placeholder="Enter ContactTitle"
+                                [formControl]="ContactTitle" />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Address :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="Address" class="form-control" value="" required="required"
+                                pattern="" title="" placeholder="Enter Address" 
+                                [formControl]="Address"  />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            City :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="City" class="form-control" value="" required="required"
+                                pattern="" title="" placeholder="Enter City" 
+                                [formControl]="City"  />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Region :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="Region" class="form-control" value="" required="required"
+                                pattern="" title="" placeholder="Enter Region" 
+                                [formControl]="Region"  />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3 mt-">
+                        <span class='float-right'>
+                            Country :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="Country" class="form-control" value="" required="required"
+                                pattern="" title="" placeholder="Enter Country" 
+                                [formControl]="Country" />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Phone :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="Phone" class="form-control" value="" required="required"
+                                pattern="" title="" placeholder="Enter Phone" 
+                                [formControl]="Phone" />
+                        </span>
+                    </div>
+                </div>
+                <div class='row pt-1'>
+                    <div class="col-md-3">
+                        <span class='float-right'>
+                            Fax :
+                        </span>
+                    </div>
+                    <div class="col-md-3">
+                        <span>
+                            <input type="text" name="" id="Fax" class="form-control" value="" required="required"
+                                pattern="" title="" placeholder="Enter Fax" 
+                                [formControl]="Fax"  />
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+            <div class='row   pt-1'> 
+                <div class='col-6 align-self-center'  >             
+                    <span class='btn btn-primary ml-1 '>Save</span>                
+                    <span class='btn btn-secondary ml-1 '>Clear</span>  
+                </div>              
+            </div>
+
+        </div>
+
+    </div>
+</div>

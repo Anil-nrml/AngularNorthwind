@@ -1,0 +1,16 @@
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\bin\Debug\NorthWindDataModel.dll
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\bin\Debug\NorthWindDataModel.pdb
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.csprojResolveAssemblyReference.cache
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.dll
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.pdb
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\bin\Debug\NorthWindDataModel.dll
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\bin\Debug\NorthWindDataModel.pdb
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.csprojResolveAssemblyReference.cache
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.dll
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.pdb
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\bin\Debug\NorthWindDataModel.dll
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\bin\Debug\NorthWindDataModel.pdb
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.csprojAssemblyReference.cache
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.csproj.CoreCompileInputs.cache
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.dll
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWindDataModel\obj\Debug\NorthWindDataModel.pdb

@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-xl  navbar-light bg-secondary col-sm-12">
+       
+    <button class="navbar-toggler nav" type="button" data-toggle="collapse"  data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+              <!-- <li class="nav-item active">
+                  <a class="nav-link" href="">Home</a>
+
+              </li>               -->
+              <li >
+                    <!-- <a class="nav-link" href="">Customer</a> -->
+                    <a class="nav-link"  [routerLink]="['/Customer']" [routerLinkActive]="['active']">Customer</a>
+              </li>
+              <li>
+                    <!-- <a class="nav-link" href="">Customer</a> -->
+                    <a class="nav-link"  [routerLink]="['/Employee']"   [routerLinkActive]="['active']">Employees</a>
+              </li>
+              <!-- <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Order
+                    </a>
+                  <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="">Orders</a></li>
+                      <li><a class="dropdown-item" href="">Order Details</a></li>
+                  </ul>
+              </li> -->
+
+          </ul>
+      </div>
+</nav>

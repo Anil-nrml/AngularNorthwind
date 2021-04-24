@@ -1,0 +1,16 @@
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\bin\Debug\NorthWind.GenericRepository.Common.dll
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\bin\Debug\NorthWind.GenericRepository.Common.pdb
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.dll
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.pdb
+D:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.csprojResolveAssemblyReference.cache
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\bin\Debug\NorthWind.GenericRepository.Common.dll
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\bin\Debug\NorthWind.GenericRepository.Common.pdb
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.csprojResolveAssemblyReference.cache
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.dll
+E:\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.pdb
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\bin\Debug\NorthWind.GenericRepository.Common.dll
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\bin\Debug\NorthWind.GenericRepository.Common.pdb
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.csprojAssemblyReference.cache
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.dll
+D:\Projects\Angular\NorthWindWebAPI\NorthWindWebAPI\NorthWind.GenericRepository.Common\obj\Debug\NorthWind.GenericRepository.Common.pdb
